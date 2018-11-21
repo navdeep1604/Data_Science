@@ -1,0 +1,4 @@
+https://github.com/clinicalml/embeddings
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675775/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675775/table/T2/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5444051/table/Tab1/
